@@ -2,7 +2,6 @@
 #include <thread>
 #include <vector>
 #include <chrono>
-#include <functional>
 
 double calculate_pi_segment(int start, int end, int num_intervals) {
     double sum = 0.0;
