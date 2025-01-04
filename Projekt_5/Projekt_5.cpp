@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿/// <summary> Algorytm wyliczania liczby PI metodą całkowania numerycznego z zastosowaniem GitHub Copilot
+#include <iostream>
 #include <thread>
 #include <vector>
 #include <chrono>
